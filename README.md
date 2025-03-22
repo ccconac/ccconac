@@ -1,32 +1,25 @@
-### Hi, there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
+안녕하세요. 함께의 가치를 추구하는 개발자 문소희입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
-<i>
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> 현재 이런 걸 공부 중이에요!
-</summary>
-   <br>
-  
-![html](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![nodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![nextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![styled-component](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![styleX](https://img.shields.io/badge/styleX-000000?style=flat-square) ![jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white) ![recoil](https://img.shields.io/badge/Recoil-61DAFB?style=flat-square&logo=recoil&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-3558b8?style=flat-square) ![tanstackQuery](https://img.shields.io/badge/Tanstack--Query-dd5848?style=flat-square&logo=React-Query&logoColor=white)
+## Introduce.
 
-</details>
+- 끝없이 새로운 지식을 탐구하고, 습득한 지식을 함께 나누는 것을 좋아해요.  
+- UI/UX에 관심이 많고 사용자의 편의성을 증대시킬 수 있는 방법을 고민해요.  
+- 소통에서 나오는 힘은 강력하다고 믿기 때문에, 소통을 두려워하지 않고 함께 일하는 환경을 즐거워해요.  
+- 변화에 유연하게 적응할 수 있고 새로운 기술을 좋아하지만, 늘 기술 도입에 있어 경계하는 자세를 가져요.
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> 앞으로 이런 것도 공부해 보고 싶어요!
-</summary>
-   <br>
+제가 기여한 서비스로 편리함과 즐거움을 제공할 수 있도록 사용자 입장에서 한번 더 생각하고 있어요. 
 
-![vueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) 
+## Education.
 
+2024.08.19 ~ kakao x 9oormthon DEEP DIVE 프론트엔드 1기
 
-</details>
+## Other Experience
 
-</i>
+2023.12.23 ~ JECT 1기 [스터디 깃허브 →](https://github.com/JECT-Study) [스터디 사이트 →](https://slashpage.com/ject) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ccconac)](https://solved.ac/ccconac/)
+2023.10.23-2024.02.09 모던 자바스크립트 스터디  [GitHub →](https://github.com/Next-by-Next/Javascript-Deep-Dive-Study)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{ccconac}"/>
-</a>
+2024.01.16-2024.05.10 바닐라 자바스크립트 스터디 [GitHub →](https://github.com/JECT-Study/Vanilla-JS-Study)
+
+2024.08.19-2024.11.01 9oormthon DEEP DIVE 1차 스터디 [useBuildUp](https://www.notion.so/useBuildUp-79890a418b86418dad56c914fa702b3e?pvs=21)
 
