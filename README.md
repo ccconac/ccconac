@@ -19,7 +19,7 @@
 
 2024.01.16-2024.05.10 바닐라 자바스크립트 스터디 [GitHub →](https://github.com/JECT-Study/Vanilla-JS-Study)
 
-2024.08.19-2024.11.01 9oormthon DEEP DIVE 1차 스터디 명예의 전당 입성! [useBuildUp](https://www.notion.so/useBuildUp-79890a418b86418dad56c914fa702b3e?pvs=21)
+2024.08.19-2024.11.01 9oormthon DEEP DIVE 1차 스터디 (명예의 전당 입성!) [useBuildUp](https://www.notion.so/useBuildUp-79890a418b86418dad56c914fa702b3e?pvs=21)
 
 ## Write.
 
