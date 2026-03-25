@@ -13,7 +13,7 @@
 ### 🧨 Alone!
 
 - GitHub 잔디 색상 변경 Extension (2026.03.) ⎯ [Chrome Extension](https://chromewebstore.google.com/detail/github-grass-color/jndomjpnidfiipnmlboeefknognjalnk?hl=ko&utm_source=ext_sidebar) [GitHub](https://github.com/ccconac/GitHub-Grass-Color)
-- AI 프롬프트 위키 플랫폼, 프롬로그 (2025.12. ~ 2025.03.) ⎯ [GitHub](https://github.com/promlog/promlog-client)
+- AI 프롬프트 위키 플랫폼, 프롬로그 (2025.12. ~ 2026.03.) ⎯ [GitHub](https://github.com/promlog/promlog-client)
 
 ### ✏️ Writes
 
